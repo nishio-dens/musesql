@@ -1,0 +1,13 @@
+name: musesql
+version: 0.1.0
+
+authors:
+  - Shinsuke Nishio <nishio@densan-labs.net>
+
+targets:
+  musesql:
+    main: src/musesql.cr
+
+crystal: 1.0.0
+
+license: MIT
